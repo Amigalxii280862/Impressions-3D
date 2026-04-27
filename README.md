@@ -1,1 +1,1 @@
- Fichiers .bat pour Slicers avec un I714700 Intel
+ Fichiers.bat pour Slicers avec un Intel I7-14700 KF
